@@ -1,0 +1,17 @@
+[
+  {
+    "id" : "1",
+    "name" : "Sahil Kalsariya",
+    "course" : "Flutter"
+  },
+  {
+    "id" : "2",
+    "name" : "Piyush",
+    "course" : "Banking"
+  },
+  {
+    "id" : "3",
+    "name" : "Pinkesh",
+    "course" : "Charated Accountant"
+  }
+]
